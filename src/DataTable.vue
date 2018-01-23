@@ -472,6 +472,11 @@
 		margin: 0;
 	}
 
+
+	.table-footer .material-pagination li {
+		list-style: none;
+	}
+
 	.table-footer .material-pagination li a {
 		color: rgba(0, 0, 0, 0.54);
 		padding: 0 8px;
